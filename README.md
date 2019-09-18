@@ -21,15 +21,6 @@
 - 나영리(나만의 영화 리스트) 페이지를 통한 개인별 영화 목록화 기능 추가
           
 
-# 팀      원 
-
-박현민 외 6 명
-
-# 사용기술 및 툴
-
-- Spring, Tomcat8.5, Oven, eXERD, Git, GitHub, Oracle, MyBatis, jQuery, Ajax, Javascript, JSP, HTML5, CSS3, jsoup, kakao map API, photoshop 
-
-
 > 유투브에서 데모 페이지 보기
 
 [![Video Label](http://img.youtube.com/vi/k6LlFefiLa8/0.jpg)](https://www.youtube.com/watch?v=k6LlFefiLa8)
@@ -55,6 +46,15 @@
 
 
 
+# 팀      원 
+
+박현민 외 6 명
+
+# 사용기술 및 툴
+
+- Spring, Tomcat8.5, Oven, eXERD, Git, GitHub, Oracle, MyBatis, jQuery, Ajax, Javascript, JSP, HTML5, CSS3, jsoup, kakao map API, photoshop 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTY4MzE3N119
+eyJoaXN0b3J5IjpbNjQxNDYzOTEsLTg5OTY4MzE3N119
 -->
