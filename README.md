@@ -30,11 +30,18 @@
 - Spring, Tomcat8.5, Oven, eXERD, Git, GitHub, Oracle, MyBatis, jQuery, Ajax, Javascript, JSP, HTML5, CSS3, jsoup, kakao map API, photoshop 
 
 
-> 유투브에서 데모 보기
+> 유투브에서 데모 페이지 보기
 
 [![Video Label](http://img.youtube.com/vi/k6LlFefiLa8/0.jpg)](https://www.youtube.com/watch?v=k6LlFefiLa8)
 
 
+# 사이트 미리보기
+
+> 1. 첫 메인 페이지
+
+> 2. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI4MTQ5ODRdfQ==
+eyJoaXN0b3J5IjpbNzg1Mjk2MTY1XX0=
 -->
