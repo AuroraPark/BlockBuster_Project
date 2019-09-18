@@ -37,11 +37,14 @@
 
 # 사이트 미리보기
 
-> 1. 첫 메인 페이지
+> 1. 유저 페이지 - 메인
 
-> 2. 
+> 2. 유저 페이지 - 나만의 영화 리스트(나영리)
 
+> 3. 관리자 페이지 - 메인
 
+> 4. 관리자 페이지 - 사용자 목록
+![enter image description here](https://user-images.githubusercontent.com/47839204/65133144-1b74a400-da3d-11e9-91a6-031c25ea4e4e.JPG)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1Mjk2MTY1XX0=
+eyJoaXN0b3J5IjpbLTIwNjEwMjM2NzddfQ==
 -->
