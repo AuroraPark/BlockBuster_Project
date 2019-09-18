@@ -46,6 +46,8 @@
 
 
 
+
+
 # 팀      원 
 
 박현민 외 6 명
@@ -54,7 +56,10 @@
 
 - Spring, Tomcat8.5, Oven, eXERD, Git, GitHub, Oracle, MyBatis, jQuery, Ajax, Javascript, JSP, HTML5, CSS3, jsoup, kakao map API, photoshop 
 
+## 정보
+
+-   문의사항:  [dev.hmpark@gmail.com](dev.hmpark@gmail.com)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNDYzOTEsLTg5OTY4MzE3N119
+eyJoaXN0b3J5IjpbMTE4OTExOTUzMywtODk5NjgzMTc3XX0=
 -->
