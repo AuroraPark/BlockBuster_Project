@@ -39,12 +39,22 @@
 
 > 1. 유저 페이지 - 메인
 
+![enter image description here](https://user-images.githubusercontent.com/47839204/65133137-1adc0d80-da3d-11e9-9431-8406a3e366db.JPG)
+
 > 2. 유저 페이지 - 나만의 영화 리스트(나영리)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/65133142-1adc0d80-da3d-11e9-8a3b-fb0ab24bce2b.JPG)
 
 > 3. 관리자 페이지 - 메인
 
+![enter image description here](https://user-images.githubusercontent.com/47839204/65133143-1b74a400-da3d-11e9-9d33-9db08d0ecaa0.JPG)
+
 > 4. 관리자 페이지 - 사용자 목록
+
 ![enter image description here](https://user-images.githubusercontent.com/47839204/65133144-1b74a400-da3d-11e9-91a6-031c25ea4e4e.JPG)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEwMjM2NzddfQ==
+eyJoaXN0b3J5IjpbLTg5OTY4MzE3N119
 -->
